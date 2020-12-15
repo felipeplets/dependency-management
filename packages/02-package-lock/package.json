@@ -1,0 +1,15 @@
+{
+  "name": "dependency-management-2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dependency-management": "0.0.1"
+  }
+}
